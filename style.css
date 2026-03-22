@@ -70,7 +70,7 @@ button {
   position: relative;
   min-height: 100vh;
   padding-top: 84px;
-  background-image: url("assets/img/hero.jpg");
+  background-image: url("hero.JPG");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
